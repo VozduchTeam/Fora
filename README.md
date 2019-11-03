@@ -1,2 +1,2 @@
 # Fora
-We have Vozdych in here.
+Team of young developers with Petro as a Senior Developer.
